@@ -1,0 +1,12 @@
+{
+  "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+  "type": "QuickStart",
+  "itemDisplayName": "Deploy a WordPress blog with Docker",
+  "description": "This template allows you to deploy an Ubuntu VM with Docker installed and WordPress/MySQL containers. Updated with docker MYSQL_PASSWORD requirements.",
+  "summary": "Deploy a WordPress blog using Docker",
+  "githubUsername": "loreleim",
+  "dateUpdated": "2021-05-12",
+  "environments": [
+    "AzureCloud"
+  ]
+}
