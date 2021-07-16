@@ -9,3 +9,8 @@ $url = "https://raw.githubusercontent.com/loreleim/azureDockerWP/main/azuredeplo
 ```
 
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Floreleim%2FazureDockerWP%2Fmain%2Fazuredeploy.json)
+
+
+## Error Research
+
+[A note from late 2020 on the same database error](https://wordpress.org/support/topic/database-connection-error-for-azure-hosted-wordpress-sites/)
